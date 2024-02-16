@@ -1,0 +1,12 @@
+CCNA
+
+Routing
+it is the process that the routers use to determine that the IP packets should take over the network to reach their destination
+
+A route is a instruction to a router that to send the packet to destination X it should send the packet to next hop(next router in the path to destination) Y
+or if the destination is directly connected to the router then send the packet directly to the destination
+or if the destination is the router itself then recieve the packet don't forward it
+
+show ip route
+
+command to view the routing tables
